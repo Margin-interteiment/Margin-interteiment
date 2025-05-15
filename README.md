@@ -1,7 +1,8 @@
 
 <div style="position: relative; text-align: center;">
 
-  <img src="https://i.pinimg.com/736x/94/d6/69/94d66950420949e6cb9842dd0355161f.jpg" alt="background" style="width: 100%; height: auto; border-radius: 10px;" />
+  <img src="![image](https://github.com/user-attachments/assets/40402cb6-c826-4c35-9988-69c4ffc13be2)
+" alt="background" style="width: 100%; height: auto; border-radius: 10px;" />
 
   <h1 style="
     position: absolute;
