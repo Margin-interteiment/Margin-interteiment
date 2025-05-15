@@ -1,4 +1,5 @@
-## Hi, I'm Rita 👋
+
+<!--## Hi, I'm Rita 👋
 
 ### 🛠️ Technologies I work with:
 <p>
