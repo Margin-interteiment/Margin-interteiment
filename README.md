@@ -1,8 +1,8 @@
-<!--<div style="position: relative; text-align: center;">
+<div style="position: relative; text-align: center;">
 
-  <img src="https://github.com/Margin-interteiment/Margin-interteiment/blob/main/images/preview.png?raw=true" alt="background" style="width: 100%; height: auto;" />
-
-  <h1 style="
+  <img src="https://github.com/Margin-interteiment/Margin-interteiment/blob/main/images/Dino-Chrome-Tout-savoir-sur-le-unscreen.gif?raw=true" alt="background" style="width: 100%; height: auto;" />
+</div>
+<!--  <h1 style="
     position: absolute;
     top: 50%;
     left: 50%;
@@ -14,7 +14,7 @@
     Hi, I'm Rita 👋
   </h1>
 
-</div>
+
 
 
 
