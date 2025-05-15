@@ -1,6 +1,6 @@
 <div style="position: relative; text-align: center;">
 
-  <img src="https://raw.githubusercontent.com/ritabrovchenko/Margin-interteiment/main/images/preview.png" alt="background" style="width: 100%; height: auto;" />
+  <img src="https://github.com/Margin-interteiment/Margin-interteiment/blob/main/images/preview.png?raw=true" alt="background" style="width: 100%; height: auto;" />
 
   <h1 style="
     position: absolute;
