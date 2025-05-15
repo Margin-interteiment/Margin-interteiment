@@ -1,4 +1,12 @@
 
+<p align="center">
+  <img src="https://i.pinimg.com/736x/4e/13/fc/4e13fc4d210feca062835627582fe892.jpg" alt="background" style="width:100%; position:absolute; z-index:-1;" />
+</p>
+
+<h1 align="center" style="color:white; text-shadow: 2px 2px 4px #000;">Hi, I'm Rita 👋</h1>
+
+
+
 <!--## Hi, I'm Rita 👋
 
 ### 🛠️ Technologies I work with:
