@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/71/45/f7/7145f7537f9f458f1472276267ed6b29.jpg" alt="background" style="width:100%; position:absolute; z-index:-1;" />
+  <img src="/home/margo/Downloads/Download_premium_png_of_PNG_Blossom_flower_plant_inflorescence_by_Aew_about_png__flower__plant__aesthetic__and_tree_12084382-removebg-preview.png" alt="background" style="width:100%; position:absolute; z-index:-1;" />
   
 <h1 align="center" style="color:white; text-shadow: 2px 2px 4px #000;">Hi, I'm Rita 👋</h1>
 </p>
