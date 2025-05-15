@@ -1,12 +1,12 @@
-<!--
+
 <p align="center">
-  <img src="https://i.pinimg.com/736x/96/66/53/966653bec896be4f49e28a86d1041adf.jpg" alt="background" style="width:100%; position:absolute; z-index:-1;" />
-  
-<h1 align="center" style="color:white; text-shadow: 2px 2px 4px #000;">Hi, I'm Rita 👋</h1>
+  <img src="https://i.pinimg.com/736x/3a/3a/57/3a3a57faca973fc3db87e1a84594da60.jpg" alt="background" style="width:100%; position:absolute; z-index:-1;" 
+    <h1 align="center" style="color:white; text-shadow: 2px 2px 4px #000;">Hi, I'm Rita 👋</h1>
+  />
 </p>
 
 
-
+<!--
 
 ## Hi, I'm Rita 👋
 
