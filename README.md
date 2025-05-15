@@ -1,3 +1,25 @@
+
+<div style="position: relative; text-align: center;">
+
+  <img src="https://i.pinimg.com/736x/94/d6/69/94d66950420949e6cb9842dd0355161f.jpg" alt="background" style="width: 100%; height: auto; border-radius: 10px;" />
+
+  <h1 style="
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 3em;
+    text-shadow: 2px 2px 8px black;
+  ">
+    Hi, I'm Rita 👋
+  </h1>
+
+</div>
+
+
+
+
 <!--
 <p align="center">
   <img src="https://i.pinimg.com/736x/26/9c/5c/269c5c0575ecb10690d6fe7ac6445c4a.jpg" alt="background" style="width:100%; position:absolute; z-index:-1;" 
