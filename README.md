@@ -1,4 +1,4 @@
-
+<!--
 <p align="center">
   <img src="https://i.pinimg.com/736x/96/66/53/966653bec896be4f49e28a86d1041adf.jpg" alt="background" style="width:100%; position:absolute; z-index:-1;" />
   
@@ -8,7 +8,7 @@
 
 
 
-<!--## Hi, I'm Rita 👋
+## Hi, I'm Rita 👋
 
 ### 🛠️ Technologies I work with:
 <p>
