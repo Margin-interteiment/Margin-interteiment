@@ -1,4 +1,4 @@
-
+<!--
 <p align="center">
   <img src="https://i.pinimg.com/736x/26/9c/5c/269c5c0575ecb10690d6fe7ac6445c4a.jpg" alt="background" style="width:100%; position:absolute; z-index:-1;" 
     <h1 align="center" style="color:white; text-shadow: 2px 2px 4px #000;">Hi, I'm Rita 👋</h1>
@@ -6,7 +6,7 @@
 </p>
 
 
-<!--
+
 
 ## Hi, I'm Rita 👋
 
