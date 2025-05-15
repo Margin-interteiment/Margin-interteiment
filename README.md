@@ -1,21 +1,21 @@
-
 <div style="position: relative; text-align: center;">
 
-  <img src="" alt="background" style="width: 100%; height: auto; border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/ritabrovchenko/Margin-interteiment/main/images/preview.png" alt="background" style="width: 100%; height: auto;" />
 
   <h1 style="
     position: absolute;
-    top: 40%;
+    top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
     font-size: 3em;
-    text-shadow: 2px 2px 8px black;
+    text-shadow: 2px 2px 6px black;
   ">
     Hi, I'm Rita 👋
   </h1>
 
 </div>
+
 
 
 
