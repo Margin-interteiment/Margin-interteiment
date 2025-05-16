@@ -1,6 +1,6 @@
 <div style="position: relative; text-align: center;">
 
-  <img src="https://github.com/Margin-interteiment/Margin-interteiment/blob/main/images/mprev.png?raw=true" alt="background" style="width: 100%; height: auto;" />
+  <img src="https://github.com/Margin-interteiment/Margin-interteiment/blob/main/images/a9b63bd7-bd7f-42a9-9b09-cadb479251e5.gif?raw=true" alt="background" style="width: 100%; height: auto;" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0000000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Rita+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
