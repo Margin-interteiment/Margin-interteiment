@@ -1,22 +1,14 @@
 <div style="position: relative; text-align: center;">
 
   <img src="https://github.com/Margin-interteiment/Margin-interteiment/blob/main/images/mprev.png?raw=true" alt="background" style="width: 100%; height: auto;" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Rita+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+</p>
 </div>
-<!--  <h1 style="
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: white;
-    font-size: 3em;
-    text-shadow: 2px 2px 6px black;
-  ">
-    Hi, I'm Rita 👋
-  </h1>
 
 
-
-
+<!--
 
 
 
