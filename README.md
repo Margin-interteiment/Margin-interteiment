@@ -1,11 +1,16 @@
-<div style="position: relative; text-align: center;">
+<table>
+  <tr>
+    <td>
 
-  <img src="https://github.com/Margin-interteiment/Margin-interteiment/blob/main/images/f8fc1b63-4cd5-42fb-9ecb-def3b84ae6fc.gif?raw=true" alt="background" style="width: 100%; height: auto;" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=000000&center=false&vCenter=true&width=500&lines=Hi%2C+I'm+Rita+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0000000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Rita+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
-</p>
-</div>
+</td>
+    <td>
+      <img src="https://github.com/Margin-interteiment/Margin-interteiment/blob/main/images/f8fc1b63-4cd5-42fb-9ecb-def3b84ae6fc.gif?raw=true" width="300px" />
+    </td>
+  </tr>
+</table>
+
 
 
 <!--
