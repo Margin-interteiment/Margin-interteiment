@@ -75,8 +75,9 @@ Since then, I've been learning and working with various technologies to improve 
 ### 🌟 Something Bright & Fun
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF61A6,100:4ECDC4&height=200&section=footer&text=Happy%20Coding!%20🚀&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF61A6,100:4ECDC4&height=200&section=footer&text=Hi%2C+I'm+Rita+%F0%9F%91%8B%3BWelcome+to+my+GitHub+profile!&fontSize=40&fontColor=ffffff" />
 </p>
+
 
 
 <!--
