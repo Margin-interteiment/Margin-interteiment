@@ -73,6 +73,16 @@
       <img src="https://github.com/Margin-interteiment/Margin-interteiment/blob/main/images/myBlog.png?raw=true" alt="Blog preview" style="width: 100%;" />
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <strong>Spirit</strong><br>
+        Messenger prototype<br>
+      <a href="https://github.com/Margin-interteiment/Spirit.git">🔗 View on GitHub</a>
+    </td>
+    <td>
+      <img src="https://github.com/Margin-interteiment/Margin-interteiment/blob/main/images/Spirit.png?raw=true" style="width: 100%;" />
+    </td>
+  </tr>
 </table>
 
 
