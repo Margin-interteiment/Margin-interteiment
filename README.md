@@ -48,11 +48,11 @@
   <img src="https://img.shields.io/badge/-Symfony-000000?logo=symfony&logoColor=fff&style=flat" />
 </p>
 
----
+
 
 <table> <tr> <td width="50%"> <strong>Vista - project for the implementation of ideas</strong><br> 🌟 A full-stack app built with Flask and React. The project allows you to create interactive quests and much more<br> <a href="https://github.com/Margin-interteiment/vista.git">🔗 View on GitHub</a> </td> <td align="center"> <img src="https://via.placeholder.com/200x100.png?text=Project+Preview" alt="project preview" width="200"/> </td> </tr> <tr> <td width="50%"> <strong>Blog system</strong><br> 🛠️ the blogging system is based on Symphony + Tailwind<br> <a href="https://github.com/Margin-interteiment/MySymp.git">🔗 View on GitHub</a> </td> <td align="center"> <img src="https://via.placeholder.com/200x100.png?text=CLI+Tool" alt="CLI Tool" width="200"/> </td> </tr> <tr> <td width="50%"> 
 
----
+
 
 <!--### 📊 GitHub Stats
 <p align="center">
@@ -65,7 +65,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" />
 </p> -->
 
----
+
 
 
 
