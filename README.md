@@ -67,10 +67,10 @@
     <td width="50%">
       <strong>Blog system</strong><br>
       🛠️ The blogging system is based on Symfony + Tailwind<br>
-      <a href="https://github.com/Margin-interteiment/MySymp.git">🔗 View on GitHub</a>
+      <a href="https://github.com/Margin-interteiment/Spirit.git">🔗 View on GitHub</a>
     </td>
     <td>
-      <img src="https://github.com/Margin-interteiment/Margin-interteiment/blob/main/images/myBlog.png?raw=true" alt="Blog preview" style="width: 100%;" />
+      <img src="https://github.com/Margin-interteiment/Margin-interteiment/blob/main/images/Spirit.png?raw=true" style="width: 100%;" />
     </td>
   </tr>
 </table>
