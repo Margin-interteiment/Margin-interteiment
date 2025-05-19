@@ -50,7 +50,31 @@
 
 
 
-<table> <tr> <td width="50%"> <strong>Vista - project for the implementation of ideas</strong><br> 🌟 A full-stack app built with Flask and React. The project allows you to create interactive quests and much more<br> <a href="https://github.com/Margin-interteiment/vista.git">🔗 View on GitHub</a> </td> <td align="center"> <img src="https://via.placeholder.com/200x100.png?text=Project+Preview" alt="project preview" width="200"/> </td> </tr> <tr> <td width="50%"> <strong>Blog system</strong><br> 🛠️ the blogging system is based on Symphony + Tailwind<br> <a href="https://github.com/Margin-interteiment/MySymp.git">🔗 View on GitHub</a> </td> <td align="center"> <img src="https://via.placeholder.com/200x100.png?text=CLI+Tool" alt="CLI Tool" width="200"/> </td> </tr> <tr> <td width="50%"> 
+### 🔍 A bit about my project experience:
+
+<table>
+  <tr>
+    <td width="50%">
+      <strong>Vista - project for the implementation of ideas</strong><br>
+      🌟 A full-stack app built with Flask and React. The project allows you to create interactive quests and much more<br>
+      <a href="https://github.com/Margin-interteiment/vista.git">🔗 View on GitHub</a>
+    </td>
+    <td>
+      <img src="https://github.com/Margin-interteiment/Margin-interteiment/blob/main/images/vista.png?raw=true" alt="project preview" style="width: 100%;" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>Blog system</strong><br>
+      🛠️ The blogging system is based on Symfony + Tailwind<br>
+      <a href="https://github.com/Margin-interteiment/MySymp.git">🔗 View on GitHub</a>
+    </td>
+    <td>
+      <img src="https://github.com/Margin-interteiment/Margin-interteiment/blob/main/images/myBlog.png?raw=true" alt="Blog preview" style="width: 100%;" />
+    </td>
+  </tr>
+</table>
+
 
 
 
