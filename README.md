@@ -110,7 +110,7 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="center">
       <ul>
         <li><strong>Email:</strong> <a href="mailto:s2631025@gmail.com">s2631025@gmail.com</a></li>
         <li><strong>Telegram:</strong> <a href="https://t.me/hisoka_rar">https://t.me/hisoka_rar</a></li>
