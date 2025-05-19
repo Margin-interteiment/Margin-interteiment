@@ -1,4 +1,13 @@
-<table>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F94DA2&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!" />
+</p>
+
+
+
+
+
+<!--<table>
   <tr>
     <td>
 
@@ -9,7 +18,7 @@
       <img src="https://github.com/Margin-interteiment/Margin-interteiment/blob/main/images/f8fc1b63-4cd5-42fb-9ecb-def3b84ae6fc.gif?raw=true" width="300px" />
     </td>
   </tr>
-</table>
+</table> -->
 
 
 
@@ -71,10 +80,7 @@
 
 
 ---
-<!--
-### 📂 My Projects
 
- Здесь будет добавлена красивая сетка или карточки проектов по фото, которую ты позже отправишь -->
 
 ---
 
