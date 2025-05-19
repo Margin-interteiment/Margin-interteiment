@@ -106,19 +106,23 @@
 </table>
 
 
-<!-- ### 📊 GitHub Stats -->
+### 📬 You can contact me:
+
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" />
-      <br />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" />
+    <td width="50%" valign="top">
+      <ul>
+        <li><strong>Email:</strong> <a href="mailto:s2631025@gmail.com">s2631025@gmail.com</a></li>
+        <li><strong>Telegram:</strong> <a href="https://t.me/your_telegram_username">https://t.me/your_telegram_username</a></li>
+        <li><strong>Discord:</strong> yourDiscordUsername#1234</li>
+      </ul>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" />
+      <img src="https://github.com/Margin-interteiment/Margin-interteiment/blob/main/images/contact.png?raw=true" alt="Contact illustration" style="width: 100%; max-width: 300px;" />
     </td>
   </tr>
 </table>
+
 
 
 
