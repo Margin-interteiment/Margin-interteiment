@@ -75,8 +75,8 @@
   </tr>
   <tr>
     <td width="50%">
-      <strong>Blog system</strong><br>
-      🛠️ The blogging system is based on Symfony + Tailwind<br>
+      <strong>Spirit</strong><br>
+        Messenger prototype<br>
       <a href="https://github.com/Margin-interteiment/Spirit.git">🔗 View on GitHub</a>
     </td>
     <td>
