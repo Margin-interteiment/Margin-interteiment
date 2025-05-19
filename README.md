@@ -9,6 +9,7 @@
   <strong>
     I got into web development 4 years ago, and it was love at first site ❤️<br>
     Since then, I've been learning and working with various technologies to improve my skills.
+    I am interested in developing full-fledged applications, but it is also interesting to learn new things from the world <br> of frontend and backend separately
   </strong>
 </p>
 
@@ -49,6 +50,7 @@
 
 ---
 
+<table> <tr> <td width="50%"> <strong>GitHub – my-org/my-project</strong><br> 🌟 A full-stack app built with Next.js, Prisma, and Tailwind. Includes user auth and dashboard.<br> <a href="https://github.com/my-org/my-project">🔗 View on GitHub</a> </td> <td align="center"> <img src="https://via.placeholder.com/200x100.png?text=Project+Preview" alt="project preview" width="200"/> </td> </tr> <tr> <td width="50%"> <strong>GitHub – my-org/cli-tool</strong><br> 🛠️ A command-line interface tool to scaffold frontend apps with one command.<br> <a href="https://github.com/my-org/cli-tool">🔗 View on GitHub</a> </td> <td align="center"> <img src="https://via.placeholder.com/200x100.png?text=CLI+Tool" alt="CLI Tool" width="200"/> </td> </tr> <tr> <td width="50%"> <strong>GitHub – my-org/design-system</strong><br> 🎨 Custom UI component library using Storybook, Tailwind, and TypeScript.<br> <a href="https://github.com/my-org/design-system">🔗 View on GitHub</a> </td> <td align="center"> <img src="https://via.placeholder.com/200x100.png?text=Design+System" alt="Design System" width="200"/> </td> </tr> </table>
 
 ---
 
