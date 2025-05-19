@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F94DA2&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF61A6,100:4ECDC4&height=200&section=footer&text=Welcome+to+my+GitHub+profile!&fontSize=40&fontColor=ffffff" />
 </p>
 
 
