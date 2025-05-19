@@ -7,7 +7,7 @@
 
 <p align="center">
   <strong>
-    I got into web development 4 years ago, and it was love at first site ❤️<br>
+    I got into web development 2 years ago, and it was love at first site ❤️<br>
     Since then, I've been learning and working with various technologies to improve my skills.
     I am interested in developing full-fledged applications, but it is also interesting to learn new things from the world <br> of frontend and backend separately
   </strong>
@@ -106,6 +106,19 @@
 </table>
 
 
+<!-- ### 📊 GitHub Stats -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" />
+      <br />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
 
 
