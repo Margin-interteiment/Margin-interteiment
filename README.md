@@ -113,12 +113,12 @@
     <td width="50%" valign="top">
       <ul>
         <li><strong>Email:</strong> <a href="mailto:s2631025@gmail.com">s2631025@gmail.com</a></li>
-        <li><strong>Telegram:</strong> <a href="https://t.me/your_telegram_username">https://t.me/your_telegram_username</a></li>
-        <li><strong>Discord:</strong> yourDiscordUsername#1234</li>
+        <li><strong>Telegram:</strong> <a href="https://t.me/hisoka_rar">https://t.me/hisoka_rar</a></li>
+        <li><strong>Discord:</strong>https://discord.com/users/1001547686794764440</li>
       </ul>
     </td>
     <td>
-      <img src="https://github.com/Margin-interteiment/Margin-interteiment/blob/main/images/contact.png?raw=true" alt="Contact illustration" style="width: 100%; max-width: 300px;" />
+      <img src="https://github.com/Margin-interteiment/Margin-interteiment/blob/main/images/mprev.png?raw=true" alt="Contact illustration" style="width: 100%; max-width: 300px;" />
     </td>
   </tr>
 </table>
@@ -126,16 +126,6 @@
 
 
 
-<!--### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" />
-</p> -->
 
 
 
