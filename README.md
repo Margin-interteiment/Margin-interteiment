@@ -76,14 +76,35 @@
   <tr>
     <td width="50%">
       <strong>Spirit</strong><br>
-        Messenger prototype<br>
+      💬 Messenger prototype<br>
       <a href="https://github.com/Margin-interteiment/Spirit.git">🔗 View on GitHub</a>
     </td>
     <td>
       <img src="https://github.com/Margin-interteiment/Margin-interteiment/blob/main/images/Spirit.png?raw=true" style="width: 100%;" />
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <strong>React app</strong><br>
+      🧪 App for recipe<br>
+      <a href="https://github.com/Margin-interteiment/ReactApp.git">🔗 View on GitHub</a>
+    </td>
+    <td>
+      <img src="https://github.com/Margin-interteiment/Margin-interteiment/blob/main/images/React-app.png?raw=true" style="width: 100%;" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>"Next-food" online store</strong><br>
+      🛒 Soon...<br>
+      <a href="https://github.com/Margin-interteiment/Next-food.git">🔗 View on GitHub</a>
+    </td>
+    <td>
+      <img src="https://github.com/Margin-interteiment/Margin-interteiment/blob/main/images/Next-food.png?raw=true" style="width: 100%;" />
+    </td>
+  </tr>
 </table>
+
 
 
 
